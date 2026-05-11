@@ -1,0 +1,92 @@
+id,file_name,text,category,duration_sec,snr_db,quality_score,edge_case_flags,review_status
+prompt_0080,audio/prompt_0080.wav,الـ file مش بيفتح عندي,code_switching,0.0,0.0,0.0,code_switching,accepted
+prompt_0095,audio/prompt_0095.wav,لأ لأ لأ، مش كده خالص,edge_cases,0.0,0.0,0.0,,accepted
+prompt_0018,audio/prompt_0018.wav,عندي موعد الساعة عشرة الصبح,numbers_and_dates,0.0,0.0,0.0,,accepted
+prompt_0011,audio/prompt_0011.wav,فين الحمام من فضلك؟,daily_conversation,0.0,0.0,0.0,,accepted
+prompt_0013,audio/prompt_0013.wav,محتاج أكلم حد مسؤول,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0085,audio/prompt_0085.wav,الـ meeting اتأجل لبكرا الصبح,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0097,audio/prompt_0097.wav,إيه اللي بتعمله ده يابني؟,edge_cases,0.0,0.0,0.0,,pending
+prompt_0086,audio/prompt_0086.wav,بعت الـ email بس مفيش reply لسه,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0065,audio/prompt_0065.wav,مش عارف أختار بين الاتنين، تنصحني بإيه؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0029,audio/prompt_0029.wav,الشقة بتاعتي في الدور السابع,numbers_and_dates,0.0,0.0,0.0,,pending
+prompt_0051,audio/prompt_0051.wav,الأكل الصيني عندكم ولا بس مصري؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0074,audio/prompt_0074.wav,محتاج أعمل update للـ software,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0091,audio/prompt_0091.wav,سبحان الله، الدنيا غريبة,edge_cases,0.0,0.0,0.0,,pending
+prompt_0079,audio/prompt_0079.wav,في error في الـ system مش عارف أصلحه,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0087,audio/prompt_0087.wav,إيه ده؟! مش معقول!,edge_cases,0.0,0.0,0.0,repeated_punctuation,pending
+prompt_0025,audio/prompt_0025.wav,الحساب بكام؟ تلاتة وعشرين جنيه؟,numbers_and_dates,0.0,0.0,0.0,,pending
+prompt_0071,audio/prompt_0071.wav,ممكن تساعدني في حاجة بسيطة؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0003,audio/prompt_0003.wav,إمتى هترجع من الشغل؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0042,audio/prompt_0042.wav,أنا ساكن في المعادي ناحية كورنيش النيل,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0048,audio/prompt_0048.wav,في إيه أكل خفيف دلوقتي؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0061,audio/prompt_0061.wav,ممكن توقع هنا من فضلك؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0073,audio/prompt_0073.wav,هعمل download للبرنامج ده دلوقتي,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0100,audio/prompt_0100.wav,أيوه! تمام! عظيم! يلا!,edge_cases,0.0,0.0,0.0,,pending
+prompt_0066,audio/prompt_0066.wav,ممكن تتكلم أهدى شوية من فضلك؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0060,audio/prompt_0060.wav,مش قادر أفتح الباب، في مشكلة؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0045,audio/prompt_0045.wav,جيبلي قهوة سادة وكباية ميه,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0075,audio/prompt_0075.wav,الـ battery خلصت وأنا بره,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0092,audio/prompt_0092.wav,تمام تمام، خلاص فهمت,edge_cases,0.0,0.0,0.0,,pending
+prompt_0064,audio/prompt_0064.wav,عارف حد يصلح موبايلات كويس هنا؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0069,audio/prompt_0069.wav,ممكن تعملي معروف وتجيبلي الكتاب ده؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0033,audio/prompt_0033.wav,عايز أروح وسط البلد، أركب إيه؟,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0023,audio/prompt_0023.wav,الرحلة هتاخد ساعتين ونص,numbers_and_dates,0.0,0.0,0.0,,pending
+prompt_0054,audio/prompt_0054.wav,عايز طبق كشري كبير بدون خل,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0047,audio/prompt_0047.wav,عايز بيتزا مارغريتا سايز وسط,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0007,audio/prompt_0007.wav,أنا مش فاهم قصدك، ممكن تعيد؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0021,audio/prompt_0021.wav,المباراة الساعة ٨ بالليل,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0050,audio/prompt_0050.wav,البيت المحشي بكام النهارده؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0030,audio/prompt_0030.wav,السنة دي عندي ٢٥ سنة,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0082,audio/prompt_0082.wav,الـ laptop بتاعي crash وأنا بشتغل,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0005,audio/prompt_0005.wav,بكرا هروح السوق مع أمي,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0026,audio/prompt_0026.wav,رقم تليفوني صفر واحد صفر,numbers_and_dates,0.0,0.0,0.0,,pending
+prompt_0078,audio/prompt_0078.wav,هنعمل online meeting بكرا الساعة ٢,code_switching,0.0,0.0,0.0,code_switching|contains_numbers,pending
+prompt_0028,audio/prompt_0028.wav,اشتريت ٣ تيشرتات بـ ١٥٠ جنيه,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0040,audio/prompt_0040.wav,السوق الكبير قريب من هنا,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0068,audio/prompt_0068.wav,إيه رأيك في الموضوع ده؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0035,audio/prompt_0035.wav,فين أقرب فرع بنك هنا؟,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0024,audio/prompt_0024.wav,عندي ٢٠٠ جنيه بس معايا,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0096,audio/prompt_0096.wav,اصبر اصبر، خليني أفكر,edge_cases,0.0,0.0,0.0,,pending
+prompt_0099,audio/prompt_0099.wav,والله العظيم مش عارف أقولك,edge_cases,0.0,0.0,0.0,,pending
+prompt_0098,audio/prompt_0098.wav,يا ريت، بس مش هينفع,edge_cases,0.0,0.0,0.0,,pending
+prompt_0022,audio/prompt_0022.wav,اشتريت عشر كيلو بطاطس بخمسين جنيه,numbers_and_dates,0.0,0.0,0.0,,pending
+prompt_0001,audio/prompt_0001.wav,ممكن تساعدني لحظة؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0002,audio/prompt_0002.wav,عايز أحجز أوضة لليلتين من فضلك,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0046,audio/prompt_0046.wav,ممكن تبعت أوردر على العنوان ده؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0077,audio/prompt_0077.wav,الـ password بتاعي اتنسيت,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0053,audio/prompt_0053.wav,الأكل هنا طازة ولا لأ؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0014,audio/prompt_0014.wav,أنا تعبان شوية النهارده,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0027,audio/prompt_0027.wav,اتقابلنا يوم الخميس الساعة تلاتة,numbers_and_dates,0.0,0.0,0.0,,pending
+prompt_0016,audio/prompt_0016.wav,عندي ٤ إخوات,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0031,audio/prompt_0031.wav,عايز أروح الأهرامات إيه أحسن طريق؟,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0089,audio/prompt_0089.wav,مش أنا اللي قلت كده!,edge_cases,0.0,0.0,0.0,,pending
+prompt_0058,audio/prompt_0058.wav,عندكم أكل نباتي؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0008,audio/prompt_0008.wav,امتى الأوتوبيس الجاي؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0059,audio/prompt_0059.wav,فين الأوضة رقم ١٢ من فضلك؟,questions_and_requests,0.0,0.0,0.0,contains_numbers,pending
+prompt_0083,audio/prompt_0083.wav,عندي deadline النهارده وأنا stress,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0006,audio/prompt_0006.wav,الجو تقيل أوي النهارده، مش كده؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0094,audio/prompt_0094.wav,ها؟ بجد؟ إمتى ده حصل؟,edge_cases,0.0,0.0,0.0,,pending
+prompt_0055,audio/prompt_0055.wav,عايز شاورما فراخ مع كل حاجة,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0038,audio/prompt_0038.wav,فين محطة مترو المرج؟,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0076,audio/prompt_0076.wav,الـ connection عندي weak أوي,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0009,audio/prompt_0009.wav,مرحبا، عندك وقت دلوقتي؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0093,audio/prompt_0093.wav,يعني إيه بالظبط؟,edge_cases,0.0,0.0,0.0,,pending
+prompt_0020,audio/prompt_0020.wav,اشتغلت ١٢ ساعة امبارح,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0017,audio/prompt_0017.wav,الفيلم بيبدأ الساعة ٩ ونص,numbers_and_dates,0.0,0.0,0.0,contains_numbers,pending
+prompt_0057,audio/prompt_0057.wav,الوجبة دي بتاخد أد إيه؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0084,audio/prompt_0084.wav,بعت الـ report على الـ WhatsApp,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0010,audio/prompt_0010.wav,ممكن كوباية مية؟,daily_conversation,0.0,0.0,0.0,,pending
+prompt_0034,audio/prompt_0034.wav,الدكتور عيادته في شارع التحرير,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0039,audio/prompt_0039.wav,روح على طول لحد ما توصل الإشارة,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0032,audio/prompt_0032.wav,المسافة من هنا لهناك كام دقيقة؟,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0056,audio/prompt_0056.wav,ممكن تبدل الأرز بسلطة؟,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0049,audio/prompt_0049.wav,جيبلي اتنين فلافل وعصير قصب,food_and_orders,0.0,0.0,0.0,,pending
+prompt_0062,audio/prompt_0062.wav,محتاج إيه عشان أعمل الخطوات دي؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0081,audio/prompt_0081.wav,الـ internet عندنا slow أوي,code_switching,0.0,0.0,0.0,code_switching,pending
+prompt_0088,audio/prompt_0088.wav,آه، فهمت قصدك دلوقتي,edge_cases,0.0,0.0,0.0,,pending
+prompt_0043,audio/prompt_0043.wav,في زحمة على الطريق الدائري دلوقتي,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0041,audio/prompt_0041.wav,المستشفى على اليسار بعد الإشارة,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0063,audio/prompt_0063.wav,إيه أحسن دكتور أسنان في المنطقة دي؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0037,audio/prompt_0037.wav,لف يمين عند الجامع الكبير,places_and_directions,0.0,0.0,0.0,,pending
+prompt_0067,audio/prompt_0067.wav,تقدر تبعتلي الملف على الإيميل؟,questions_and_requests,0.0,0.0,0.0,,pending
+prompt_0004,audio/prompt_0004.wav,الأكل بتاعكم حلو جداً,daily_conversation,0.0,0.0,0.0,,pending

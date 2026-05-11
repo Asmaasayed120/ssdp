@@ -1,0 +1,41 @@
+# Pipeline Configuration
+pipeline:
+  output_dir: "data"
+  prompts_dir: "data/prompts"
+  audio_dir: "data/audio"
+  reviewed_dir: "data/reviewed"
+  export_dir: "data/output"
+  log_file: "data/pipeline.log"
+  checkpoint_file: "data/checkpoint.json"
+
+prompts:
+  total: 100
+  categories:
+    - daily_conversation
+    - numbers_and_dates
+    - places_and_directions
+    - food_and_orders
+    - questions_and_requests
+    - code_switching
+    - edge_cases
+  output_file: "data/prompts/prompts.json"
+
+tts:
+  voice: "ar-EG-ShakirNeural"
+  rate: "+0%"
+  volume: "+0%"
+  output_format: "wav"
+  batch_size: 10
+  retry_attempts: 3
+  retry_delay: 2
+
+quality:
+  min_duration_sec: 0.5
+  max_duration_sec: 30.0
+  min_snr_db: 10.0
+
+export:
+  format: "csv"
+  output_file: "data/output/metadata.csv"
+  audio_subdir: "data/output/audio"
+  min_quality_score: 0.6

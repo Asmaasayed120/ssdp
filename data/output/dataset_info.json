@@ -1,0 +1,20 @@
+{
+  "dataset_name": "Egyptian Arabic Synthetic Speech",
+  "total_samples": 91,
+  "language": "ar-EG",
+  "dialect": "Egyptian Arabic",
+  "tts_engine": "Microsoft Edge TTS (ar-EG-ShakirNeural)",
+  "sample_rate": 16000,
+  "channels": 1,
+  "format": "WAV",
+  "categories": [
+    "code_switching",
+    "places_and_directions",
+    "food_and_orders",
+    "daily_conversation",
+    "questions_and_requests",
+    "numbers_and_dates",
+    "edge_cases"
+  ],
+  "export_format": "CSV + WAV — Whisper fine-tuning compatible"
+}

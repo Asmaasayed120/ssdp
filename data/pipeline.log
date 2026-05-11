@@ -1,0 +1,406 @@
+2026-05-11 22:23:23,114 [INFO] Total: 100 | Done: 0 | Remaining: 100
+2026-05-11 22:23:23,114 [INFO] ── Batch 1/10 (10 prompts) ──
+2026-05-11 22:23:25,336 [INFO] [OK] prompt_0044 → prompt_0044.wav
+2026-05-11 22:23:25,377 [INFO] [OK] prompt_0095 → prompt_0095.wav
+2026-05-11 22:23:25,408 [INFO] [OK] prompt_0052 → prompt_0052.wav
+2026-05-11 22:23:25,418 [INFO] [OK] prompt_0011 → prompt_0011.wav
+2026-05-11 22:23:25,740 [INFO] [OK] prompt_0072 → prompt_0072.wav
+2026-05-11 22:23:25,745 [INFO] [OK] prompt_0080 → prompt_0080.wav
+2026-05-11 22:23:25,756 [INFO] [OK] prompt_0090 → prompt_0090.wav
+2026-05-11 22:23:25,793 [INFO] [OK] prompt_0015 → prompt_0015.wav
+2026-05-11 22:23:25,957 [INFO] [OK] prompt_0018 → prompt_0018.wav
+2026-05-11 22:23:27,839 [INFO] [OK] prompt_0070 → prompt_0070.wav
+2026-05-11 22:23:27,844 [INFO] Checkpoint saved — 10 total completed
+2026-05-11 22:23:28,857 [INFO] ── Batch 2/10 (10 prompts) ──
+2026-05-11 22:23:30,525 [INFO] [OK] prompt_0019 → prompt_0019.wav
+2026-05-11 22:23:30,533 [INFO] [OK] prompt_0097 → prompt_0097.wav
+2026-05-11 22:23:30,755 [INFO] [OK] prompt_0029 → prompt_0029.wav
+2026-05-11 22:23:30,920 [INFO] [OK] prompt_0013 → prompt_0013.wav
+2026-05-11 22:23:30,945 [INFO] [OK] prompt_0086 → prompt_0086.wav
+2026-05-11 22:23:30,973 [INFO] [OK] prompt_0036 → prompt_0036.wav
+2026-05-11 22:23:31,072 [INFO] [OK] prompt_0085 → prompt_0085.wav
+2026-05-11 22:23:31,171 [INFO] [OK] prompt_0012 → prompt_0012.wav
+2026-05-11 22:23:31,248 [INFO] [OK] prompt_0065 → prompt_0065.wav
+2026-05-11 22:23:31,808 [INFO] [OK] prompt_0051 → prompt_0051.wav
+2026-05-11 22:23:31,808 [INFO] Checkpoint saved — 20 total completed
+2026-05-11 22:23:32,822 [INFO] ── Batch 3/10 (10 prompts) ──
+2026-05-11 22:23:34,849 [INFO] [OK] prompt_0003 → prompt_0003.wav
+2026-05-11 22:23:35,025 [INFO] [OK] prompt_0091 → prompt_0091.wav
+2026-05-11 22:23:35,054 [INFO] [OK] prompt_0061 → prompt_0061.wav
+2026-05-11 22:23:35,210 [INFO] [OK] prompt_0048 → prompt_0048.wav
+2026-05-11 22:23:35,214 [INFO] [OK] prompt_0074 → prompt_0074.wav
+2026-05-11 22:23:35,238 [INFO] [OK] prompt_0079 → prompt_0079.wav
+2026-05-11 22:23:35,417 [INFO] [OK] prompt_0087 → prompt_0087.wav
+2026-05-11 22:23:35,536 [INFO] [OK] prompt_0071 → prompt_0071.wav
+2026-05-11 22:23:35,902 [INFO] [OK] prompt_0042 → prompt_0042.wav
+2026-05-11 22:23:36,306 [INFO] [OK] prompt_0025 → prompt_0025.wav
+2026-05-11 22:23:36,309 [INFO] Checkpoint saved — 30 total completed
+2026-05-11 22:23:37,320 [INFO] ── Batch 4/10 (10 prompts) ──
+2026-05-11 22:23:38,933 [INFO] [OK] prompt_0060 → prompt_0060.wav
+2026-05-11 22:23:39,039 [INFO] [OK] prompt_0066 → prompt_0066.wav
+2026-05-11 22:23:39,082 [INFO] [OK] prompt_0064 → prompt_0064.wav
+2026-05-11 22:23:39,202 [INFO] [OK] prompt_0073 → prompt_0073.wav
+2026-05-11 22:23:39,885 [INFO] [OK] prompt_0045 → prompt_0045.wav
+2026-05-11 22:23:39,885 [INFO] [OK] prompt_0075 → prompt_0075.wav
+2026-05-11 22:23:40,040 [INFO] [OK] prompt_0092 → prompt_0092.wav
+2026-05-11 22:23:40,548 [INFO] [OK] prompt_0069 → prompt_0069.wav
+2026-05-11 22:23:40,912 [INFO] [OK] prompt_0033 → prompt_0033.wav
+2026-05-11 22:23:40,970 [INFO] [OK] prompt_0100 → prompt_0100.wav
+2026-05-11 22:23:40,973 [INFO] Checkpoint saved — 40 total completed
+2026-05-11 22:23:41,983 [INFO] ── Batch 5/10 (10 prompts) ──
+2026-05-11 22:23:43,543 [INFO] [OK] prompt_0050 → prompt_0050.wav
+2026-05-11 22:23:43,803 [INFO] [OK] prompt_0082 → prompt_0082.wav
+2026-05-11 22:23:43,854 [INFO] [OK] prompt_0007 → prompt_0007.wav
+2026-05-11 22:23:44,142 [INFO] [OK] prompt_0026 → prompt_0026.wav
+2026-05-11 22:23:44,230 [INFO] [OK] prompt_0047 → prompt_0047.wav
+2026-05-11 22:23:44,258 [INFO] [OK] prompt_0023 → prompt_0023.wav
+2026-05-11 22:23:44,300 [INFO] [OK] prompt_0021 → prompt_0021.wav
+2026-05-11 22:23:44,479 [INFO] [OK] prompt_0030 → prompt_0030.wav
+2026-05-11 22:23:44,597 [INFO] [OK] prompt_0005 → prompt_0005.wav
+2026-05-11 22:23:44,682 [INFO] [OK] prompt_0054 → prompt_0054.wav
+2026-05-11 22:23:44,698 [INFO] Checkpoint saved — 50 total completed
+2026-05-11 22:23:45,714 [INFO] ── Batch 6/10 (10 prompts) ──
+2026-05-11 22:23:47,165 [INFO] [OK] prompt_0068 → prompt_0068.wav
+2026-05-11 22:23:47,712 [INFO] [OK] prompt_0035 → prompt_0035.wav
+2026-05-11 22:23:47,717 [INFO] [OK] prompt_0098 → prompt_0098.wav
+2026-05-11 22:23:47,736 [INFO] [OK] prompt_0096 → prompt_0096.wav
+2026-05-11 22:23:47,786 [INFO] [OK] prompt_0099 → prompt_0099.wav
+2026-05-11 22:23:47,917 [INFO] [OK] prompt_0028 → prompt_0028.wav
+2026-05-11 22:23:48,066 [INFO] [OK] prompt_0040 → prompt_0040.wav
+2026-05-11 22:23:48,134 [INFO] [OK] prompt_0022 → prompt_0022.wav
+2026-05-11 22:23:48,359 [INFO] [OK] prompt_0078 → prompt_0078.wav
+2026-05-11 22:23:48,964 [INFO] [OK] prompt_0024 → prompt_0024.wav
+2026-05-11 22:23:48,964 [INFO] Checkpoint saved — 60 total completed
+2026-05-11 22:23:49,978 [INFO] ── Batch 7/10 (10 prompts) ──
+2026-05-11 22:23:51,161 [INFO] [OK] prompt_0016 → prompt_0016.wav
+2026-05-11 22:23:51,766 [INFO] [OK] prompt_0014 → prompt_0014.wav
+2026-05-11 22:23:51,772 [INFO] [OK] prompt_0031 → prompt_0031.wav
+2026-05-11 22:23:51,826 [INFO] [OK] prompt_0002 → prompt_0002.wav
+2026-05-11 22:23:51,842 [INFO] [OK] prompt_0089 → prompt_0089.wav
+2026-05-11 22:23:51,878 [INFO] [OK] prompt_0046 → prompt_0046.wav
+2026-05-11 22:23:51,992 [INFO] [OK] prompt_0053 → prompt_0053.wav
+2026-05-11 22:23:52,095 [INFO] [OK] prompt_0001 → prompt_0001.wav
+2026-05-11 22:23:52,245 [INFO] [OK] prompt_0027 → prompt_0027.wav
+2026-05-11 22:23:52,894 [INFO] [OK] prompt_0077 → prompt_0077.wav
+2026-05-11 22:23:52,898 [INFO] Checkpoint saved — 70 total completed
+2026-05-11 22:23:53,909 [INFO] ── Batch 8/10 (10 prompts) ──
+2026-05-11 22:23:55,568 [INFO] [OK] prompt_0083 → prompt_0083.wav
+2026-05-11 22:23:55,658 [INFO] [OK] prompt_0008 → prompt_0008.wav
+2026-05-11 22:23:55,838 [INFO] [OK] prompt_0009 → prompt_0009.wav
+2026-05-11 22:23:55,895 [INFO] [OK] prompt_0055 → prompt_0055.wav
+2026-05-11 22:23:56,006 [WARNING] [RETRY 1/3] prompt_0076 — 503, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=6c84d6fca38c40aab1f77a5d031c5e43&Sec-MS-GEC=27EFAAC033BA99D74F61BA26F079B213892DC6A962464DFF52F7F4455D911E73&Sec-MS-GEC-Version=1-143.0.3650.75'
+2026-05-11 22:23:56,028 [INFO] [OK] prompt_0038 → prompt_0038.wav
+2026-05-11 22:23:56,062 [INFO] [OK] prompt_0006 → prompt_0006.wav
+2026-05-11 22:23:56,136 [INFO] [OK] prompt_0058 → prompt_0058.wav
+2026-05-11 22:23:56,692 [INFO] [OK] prompt_0059 → prompt_0059.wav
+2026-05-11 22:23:56,860 [INFO] [OK] prompt_0094 → prompt_0094.wav
+2026-05-11 22:24:00,399 [INFO] [OK] prompt_0076 → prompt_0076.wav
+2026-05-11 22:24:00,399 [INFO] Checkpoint saved — 80 total completed
+2026-05-11 22:24:01,404 [INFO] ── Batch 9/10 (10 prompts) ──
+2026-05-11 22:24:02,785 [INFO] [OK] prompt_0084 → prompt_0084.wav
+2026-05-11 22:24:02,791 [INFO] [OK] prompt_0010 → prompt_0010.wav
+2026-05-11 22:24:02,802 [INFO] [OK] prompt_0057 → prompt_0057.wav
+2026-05-11 22:24:02,870 [INFO] [OK] prompt_0093 → prompt_0093.wav
+2026-05-11 22:24:03,318 [INFO] [OK] prompt_0032 → prompt_0032.wav
+2026-05-11 22:24:03,318 [INFO] [OK] prompt_0039 → prompt_0039.wav
+2026-05-11 22:24:03,355 [INFO] [OK] prompt_0020 → prompt_0020.wav
+2026-05-11 22:24:03,699 [INFO] [OK] prompt_0056 → prompt_0056.wav
+2026-05-11 22:24:04,014 [INFO] [OK] prompt_0017 → prompt_0017.wav
+2026-05-11 22:24:04,039 [INFO] [OK] prompt_0034 → prompt_0034.wav
+2026-05-11 22:24:04,047 [INFO] Checkpoint saved — 90 total completed
+2026-05-11 22:24:05,052 [INFO] ── Batch 10/10 (10 prompts) ──
+2026-05-11 22:24:06,763 [INFO] [OK] prompt_0049 → prompt_0049.wav
+2026-05-11 22:24:06,803 [INFO] [OK] prompt_0088 → prompt_0088.wav
+2026-05-11 22:24:06,969 [INFO] [OK] prompt_0004 → prompt_0004.wav
+2026-05-11 22:24:07,020 [INFO] [OK] prompt_0081 → prompt_0081.wav
+2026-05-11 22:24:07,226 [INFO] [OK] prompt_0037 → prompt_0037.wav
+2026-05-11 22:24:07,287 [INFO] [OK] prompt_0067 → prompt_0067.wav
+2026-05-11 22:24:07,515 [INFO] [OK] prompt_0043 → prompt_0043.wav
+2026-05-11 22:24:07,702 [INFO] [OK] prompt_0041 → prompt_0041.wav
+2026-05-11 22:24:07,800 [INFO] [OK] prompt_0062 → prompt_0062.wav
+2026-05-11 22:24:07,950 [INFO] [OK] prompt_0063 → prompt_0063.wav
+2026-05-11 22:24:07,950 [INFO] Checkpoint saved — 100 total completed
+2026-05-11 22:24:07,971 [INFO] 
+==================================================
+2026-05-11 22:24:07,971 [INFO] ✅ Synthesis complete
+2026-05-11 22:24:07,972 [INFO]    Success: 100 | Failed: 0
+2026-05-11 22:24:07,973 [INFO]    Manifest: data\audio\manifest.json
+2026-05-11 22:24:07,973 [INFO] ==================================================
+2026-05-11 22:43:55,337 [INFO] Checkpoint loaded — 100 prompts already done
+2026-05-11 22:43:55,337 [INFO] Total: 100 | Done: 100 | Remaining: 0
+2026-05-11 22:43:55,351 [INFO] 
+==================================================
+2026-05-11 22:43:55,351 [INFO] ✅ Synthesis complete
+2026-05-11 22:43:55,351 [INFO]    Success: 100 | Failed: 0
+2026-05-11 22:43:55,351 [INFO]    Manifest: data\audio\manifest.json
+2026-05-11 22:43:55,351 [INFO] ==================================================
+2026-05-11 22:44:18,239 [INFO] Checkpoint loaded — 100 prompts already done
+2026-05-11 22:44:18,239 [INFO] Total: 100 | Done: 100 | Remaining: 0
+2026-05-11 22:44:18,242 [INFO] 
+==================================================
+2026-05-11 22:44:18,242 [INFO] ✅ Synthesis complete
+2026-05-11 22:44:18,242 [INFO]    Success: 100 | Failed: 0
+2026-05-11 22:44:18,242 [INFO]    Manifest: data\audio\manifest.json
+2026-05-11 22:44:18,242 [INFO] ==================================================
+2026-05-11 22:47:58,515 [INFO] Checkpoint loaded — 100 prompts already done
+2026-05-11 22:47:58,515 [INFO] Total: 100 | Done: 100 | Remaining: 0
+2026-05-11 22:47:58,515 [INFO] 
+==================================================
+2026-05-11 22:47:58,515 [INFO] ✅ Synthesis complete
+2026-05-11 22:47:58,515 [INFO]    Success: 100 | Failed: 0
+2026-05-11 22:47:58,515 [INFO]    Manifest: data\audio\manifest.json
+2026-05-11 22:47:58,515 [INFO] ==================================================
+2026-05-11 22:49:04,956 [INFO] Total: 100 | Done: 0 | Remaining: 100
+2026-05-11 22:49:04,957 [INFO] ── Batch 1/10 (10 prompts) ──
+2026-05-11 22:49:14,150 [INFO] [OK] prompt_0015 → prompt_0015.wav
+2026-05-11 22:49:14,221 [INFO] [OK] prompt_0080 → prompt_0080.wav
+2026-05-11 22:49:14,304 [INFO] [OK] prompt_0044 → prompt_0044.wav
+2026-05-11 22:49:14,379 [INFO] [OK] prompt_0052 → prompt_0052.wav
+2026-05-11 22:49:14,453 [INFO] [OK] prompt_0072 → prompt_0072.wav
+2026-05-11 22:49:14,530 [INFO] [OK] prompt_0070 → prompt_0070.wav
+2026-05-11 22:49:14,604 [INFO] [OK] prompt_0090 → prompt_0090.wav
+2026-05-11 22:49:14,680 [INFO] [OK] prompt_0095 → prompt_0095.wav
+2026-05-11 22:49:14,756 [INFO] [OK] prompt_0011 → prompt_0011.wav
+2026-05-11 22:49:14,836 [INFO] [OK] prompt_0018 → prompt_0018.wav
+2026-05-11 22:49:14,841 [INFO] Checkpoint saved — 10 total completed
+2026-05-11 22:49:15,852 [INFO] ── Batch 2/10 (10 prompts) ──
+2026-05-11 22:49:16,733 [INFO] [OK] prompt_0019 → prompt_0019.wav
+2026-05-11 22:49:16,806 [INFO] [OK] prompt_0036 → prompt_0036.wav
+2026-05-11 22:49:16,881 [INFO] [OK] prompt_0085 → prompt_0085.wav
+2026-05-11 22:49:16,954 [INFO] [OK] prompt_0013 → prompt_0013.wav
+2026-05-11 22:49:17,026 [INFO] [OK] prompt_0097 → prompt_0097.wav
+2026-05-11 22:49:17,098 [INFO] [OK] prompt_0051 → prompt_0051.wav
+2026-05-11 22:49:17,171 [INFO] [OK] prompt_0029 → prompt_0029.wav
+2026-05-11 22:49:17,244 [INFO] [OK] prompt_0065 → prompt_0065.wav
+2026-05-11 22:49:17,317 [INFO] [OK] prompt_0086 → prompt_0086.wav
+2026-05-11 22:49:17,392 [INFO] [OK] prompt_0012 → prompt_0012.wav
+2026-05-11 22:49:17,393 [INFO] Checkpoint saved — 20 total completed
+2026-05-11 22:49:18,399 [INFO] ── Batch 3/10 (10 prompts) ──
+2026-05-11 22:49:19,171 [INFO] [OK] prompt_0071 → prompt_0071.wav
+2026-05-11 22:49:19,252 [INFO] [OK] prompt_0087 → prompt_0087.wav
+2026-05-11 22:49:19,323 [INFO] [OK] prompt_0003 → prompt_0003.wav
+2026-05-11 22:49:19,398 [INFO] [OK] prompt_0042 → prompt_0042.wav
+2026-05-11 22:49:19,471 [INFO] [OK] prompt_0079 → prompt_0079.wav
+2026-05-11 22:49:19,547 [INFO] [OK] prompt_0091 → prompt_0091.wav
+2026-05-11 22:49:19,621 [INFO] [OK] prompt_0025 → prompt_0025.wav
+2026-05-11 22:49:19,692 [INFO] [OK] prompt_0061 → prompt_0061.wav
+2026-05-11 22:49:19,761 [INFO] [OK] prompt_0048 → prompt_0048.wav
+2026-05-11 22:49:19,836 [INFO] [OK] prompt_0074 → prompt_0074.wav
+2026-05-11 22:49:19,836 [INFO] Checkpoint saved — 30 total completed
+2026-05-11 22:49:20,847 [INFO] ── Batch 4/10 (10 prompts) ──
+2026-05-11 22:49:21,617 [INFO] [OK] prompt_0045 → prompt_0045.wav
+2026-05-11 22:49:21,695 [INFO] [OK] prompt_0033 → prompt_0033.wav
+2026-05-11 22:49:21,767 [INFO] [OK] prompt_0060 → prompt_0060.wav
+2026-05-11 22:49:21,839 [INFO] [OK] prompt_0073 → prompt_0073.wav
+2026-05-11 22:49:21,909 [INFO] [OK] prompt_0066 → prompt_0066.wav
+2026-05-11 22:49:21,983 [INFO] [OK] prompt_0075 → prompt_0075.wav
+2026-05-11 22:49:22,055 [INFO] [OK] prompt_0092 → prompt_0092.wav
+2026-05-11 22:49:22,127 [INFO] [OK] prompt_0064 → prompt_0064.wav
+2026-05-11 22:49:22,202 [INFO] [OK] prompt_0069 → prompt_0069.wav
+2026-05-11 22:49:22,391 [INFO] [OK] prompt_0100 → prompt_0100.wav
+2026-05-11 22:49:22,392 [INFO] Checkpoint saved — 40 total completed
+2026-05-11 22:49:23,396 [INFO] ── Batch 5/10 (10 prompts) ──
+2026-05-11 22:49:24,139 [INFO] [OK] prompt_0082 → prompt_0082.wav
+2026-05-11 22:49:24,217 [INFO] [OK] prompt_0007 → prompt_0007.wav
+2026-05-11 22:49:24,291 [INFO] [OK] prompt_0021 → prompt_0021.wav
+2026-05-11 22:49:24,363 [INFO] [OK] prompt_0023 → prompt_0023.wav
+2026-05-11 22:49:24,436 [INFO] [OK] prompt_0047 → prompt_0047.wav
+2026-05-11 22:49:24,514 [INFO] [OK] prompt_0054 → prompt_0054.wav
+2026-05-11 22:49:24,598 [INFO] [OK] prompt_0026 → prompt_0026.wav
+2026-05-11 22:49:24,684 [INFO] [OK] prompt_0030 → prompt_0030.wav
+2026-05-11 22:49:24,762 [INFO] [OK] prompt_0050 → prompt_0050.wav
+2026-05-11 22:49:24,909 [INFO] [OK] prompt_0005 → prompt_0005.wav
+2026-05-11 22:49:24,909 [INFO] Checkpoint saved — 50 total completed
+2026-05-11 22:49:25,912 [INFO] ── Batch 6/10 (10 prompts) ──
+2026-05-11 22:49:26,644 [INFO] [OK] prompt_0035 → prompt_0035.wav
+2026-05-11 22:49:26,726 [INFO] [OK] prompt_0024 → prompt_0024.wav
+2026-05-11 22:49:26,799 [INFO] [OK] prompt_0099 → prompt_0099.wav
+2026-05-11 22:49:26,869 [INFO] [OK] prompt_0068 → prompt_0068.wav
+2026-05-11 22:49:26,943 [INFO] [OK] prompt_0028 → prompt_0028.wav
+2026-05-11 22:49:27,017 [INFO] [OK] prompt_0022 → prompt_0022.wav
+2026-05-11 22:49:27,092 [INFO] [OK] prompt_0078 → prompt_0078.wav
+2026-05-11 22:49:27,166 [INFO] [OK] prompt_0096 → prompt_0096.wav
+2026-05-11 22:49:27,237 [INFO] [OK] prompt_0040 → prompt_0040.wav
+2026-05-11 22:49:27,310 [INFO] [OK] prompt_0098 → prompt_0098.wav
+2026-05-11 22:49:27,311 [INFO] Checkpoint saved — 60 total completed
+2026-05-11 22:49:28,327 [INFO] ── Batch 7/10 (10 prompts) ──
+2026-05-11 22:49:29,144 [INFO] [OK] prompt_0077 → prompt_0077.wav
+2026-05-11 22:49:29,219 [INFO] [OK] prompt_0014 → prompt_0014.wav
+2026-05-11 22:49:29,296 [INFO] [OK] prompt_0053 → prompt_0053.wav
+2026-05-11 22:49:29,370 [INFO] [OK] prompt_0001 → prompt_0001.wav
+2026-05-11 22:49:29,445 [INFO] [OK] prompt_0002 → prompt_0002.wav
+2026-05-11 22:49:29,517 [INFO] [OK] prompt_0046 → prompt_0046.wav
+2026-05-11 22:49:29,588 [INFO] [OK] prompt_0016 → prompt_0016.wav
+2026-05-11 22:49:29,658 [INFO] [OK] prompt_0089 → prompt_0089.wav
+2026-05-11 22:49:29,727 [INFO] [OK] prompt_0027 → prompt_0027.wav
+2026-05-11 22:49:29,802 [INFO] [OK] prompt_0031 → prompt_0031.wav
+2026-05-11 22:49:29,803 [INFO] Checkpoint saved — 70 total completed
+2026-05-11 22:49:30,807 [INFO] ── Batch 8/10 (10 prompts) ──
+2026-05-11 22:49:31,595 [INFO] [OK] prompt_0008 → prompt_0008.wav
+2026-05-11 22:49:31,683 [INFO] [OK] prompt_0055 → prompt_0055.wav
+2026-05-11 22:49:31,757 [INFO] [OK] prompt_0009 → prompt_0009.wav
+2026-05-11 22:49:31,830 [INFO] [OK] prompt_0059 → prompt_0059.wav
+2026-05-11 22:49:31,903 [INFO] [OK] prompt_0006 → prompt_0006.wav
+2026-05-11 22:49:31,975 [INFO] [OK] prompt_0076 → prompt_0076.wav
+2026-05-11 22:49:32,043 [INFO] [OK] prompt_0058 → prompt_0058.wav
+2026-05-11 22:49:32,113 [INFO] [OK] prompt_0083 → prompt_0083.wav
+2026-05-11 22:49:32,186 [INFO] [OK] prompt_0094 → prompt_0094.wav
+2026-05-11 22:49:32,257 [INFO] [OK] prompt_0038 → prompt_0038.wav
+2026-05-11 22:49:32,257 [INFO] Checkpoint saved — 80 total completed
+2026-05-11 22:49:33,259 [INFO] ── Batch 9/10 (10 prompts) ──
+2026-05-11 22:49:34,139 [INFO] [OK] prompt_0084 → prompt_0084.wav
+2026-05-11 22:49:34,233 [INFO] [OK] prompt_0020 → prompt_0020.wav
+2026-05-11 22:49:34,316 [INFO] [OK] prompt_0057 → prompt_0057.wav
+2026-05-11 22:49:34,386 [INFO] [OK] prompt_0010 → prompt_0010.wav
+2026-05-11 22:49:34,460 [INFO] [OK] prompt_0056 → prompt_0056.wav
+2026-05-11 22:49:34,535 [INFO] [OK] prompt_0093 → prompt_0093.wav
+2026-05-11 22:49:34,608 [INFO] [OK] prompt_0034 → prompt_0034.wav
+2026-05-11 22:49:34,681 [INFO] [OK] prompt_0032 → prompt_0032.wav
+2026-05-11 22:49:34,755 [INFO] [OK] prompt_0017 → prompt_0017.wav
+2026-05-11 22:49:34,827 [INFO] [OK] prompt_0039 → prompt_0039.wav
+2026-05-11 22:49:34,828 [INFO] Checkpoint saved — 90 total completed
+2026-05-11 22:49:35,838 [INFO] ── Batch 10/10 (10 prompts) ──
+2026-05-11 22:49:36,680 [INFO] [OK] prompt_0049 → prompt_0049.wav
+2026-05-11 22:49:36,758 [INFO] [OK] prompt_0004 → prompt_0004.wav
+2026-05-11 22:49:36,830 [INFO] [OK] prompt_0037 → prompt_0037.wav
+2026-05-11 22:49:36,902 [INFO] [OK] prompt_0088 → prompt_0088.wav
+2026-05-11 22:49:36,975 [INFO] [OK] prompt_0041 → prompt_0041.wav
+2026-05-11 22:49:37,047 [INFO] [OK] prompt_0043 → prompt_0043.wav
+2026-05-11 22:49:37,160 [INFO] [OK] prompt_0063 → prompt_0063.wav
+2026-05-11 22:49:37,233 [INFO] [OK] prompt_0062 → prompt_0062.wav
+2026-05-11 22:49:37,304 [INFO] [OK] prompt_0067 → prompt_0067.wav
+2026-05-11 22:49:37,379 [INFO] [OK] prompt_0081 → prompt_0081.wav
+2026-05-11 22:49:37,379 [INFO] Checkpoint saved — 100 total completed
+2026-05-11 22:49:37,382 [INFO] 
+==================================================
+2026-05-11 22:49:37,382 [INFO] ✅ Synthesis complete
+2026-05-11 22:49:37,382 [INFO]    Success: 100 | Failed: 0
+2026-05-11 22:49:37,382 [INFO]    Manifest: data\audio\manifest.json
+2026-05-11 22:49:37,382 [INFO] ==================================================
+2026-05-11 23:04:43,116 [INFO] Total: 100 | Done: 0 | Remaining: 100
+2026-05-11 23:04:43,116 [INFO] ── Batch 1/10 (10 prompts) ──
+2026-05-11 23:04:44,009 [INFO] [OK] prompt_0055 → prompt_0055.wav
+2026-05-11 23:04:44,088 [INFO] [OK] prompt_0029 → prompt_0029.wav
+2026-05-11 23:04:44,160 [INFO] [OK] prompt_0037 → prompt_0037.wav
+2026-05-11 23:04:44,235 [INFO] [OK] prompt_0027 → prompt_0027.wav
+2026-05-11 23:04:44,309 [INFO] [OK] prompt_0090 → prompt_0090.wav
+2026-05-11 23:04:44,384 [INFO] [OK] prompt_0100 → prompt_0100.wav
+2026-05-11 23:04:44,460 [INFO] [OK] prompt_0016 → prompt_0016.wav
+2026-05-11 23:04:44,534 [INFO] [OK] prompt_0097 → prompt_0097.wav
+2026-05-11 23:04:44,607 [INFO] [OK] prompt_0077 → prompt_0077.wav
+2026-05-11 23:04:44,680 [INFO] [OK] prompt_0074 → prompt_0074.wav
+2026-05-11 23:04:44,681 [INFO] Checkpoint saved — 10 total completed
+2026-05-11 23:04:45,691 [INFO] ── Batch 2/10 (10 prompts) ──
+2026-05-11 23:04:46,478 [INFO] [OK] prompt_0087 → prompt_0087.wav
+2026-05-11 23:04:46,555 [INFO] [OK] prompt_0038 → prompt_0038.wav
+2026-05-11 23:04:46,623 [INFO] [OK] prompt_0048 → prompt_0048.wav
+2026-05-11 23:04:46,695 [INFO] [OK] prompt_0020 → prompt_0020.wav
+2026-05-11 23:04:46,767 [INFO] [OK] prompt_0053 → prompt_0053.wav
+2026-05-11 23:04:46,838 [INFO] [OK] prompt_0047 → prompt_0047.wav
+2026-05-11 23:04:46,908 [INFO] [OK] prompt_0079 → prompt_0079.wav
+2026-05-11 23:04:46,979 [INFO] [OK] prompt_0002 → prompt_0002.wav
+2026-05-11 23:04:48,116 [INFO] [OK] prompt_0072 → prompt_0072.wav
+2026-05-11 23:04:49,115 [INFO] [OK] prompt_0086 → prompt_0086.wav
+2026-05-11 23:04:49,115 [INFO] Checkpoint saved — 20 total completed
+2026-05-11 23:04:50,118 [INFO] ── Batch 3/10 (10 prompts) ──
+2026-05-11 23:04:50,826 [INFO] [OK] prompt_0088 → prompt_0088.wav
+2026-05-11 23:04:50,903 [INFO] [OK] prompt_0001 → prompt_0001.wav
+2026-05-11 23:04:50,980 [INFO] [OK] prompt_0032 → prompt_0032.wav
+2026-05-11 23:04:51,050 [INFO] [OK] prompt_0028 → prompt_0028.wav
+2026-05-11 23:04:51,130 [INFO] [OK] prompt_0004 → prompt_0004.wav
+2026-05-11 23:04:51,202 [INFO] [OK] prompt_0041 → prompt_0041.wav
+2026-05-11 23:04:51,275 [INFO] [OK] prompt_0073 → prompt_0073.wav
+2026-05-11 23:04:51,345 [INFO] [OK] prompt_0061 → prompt_0061.wav
+2026-05-11 23:04:51,415 [INFO] [OK] prompt_0005 → prompt_0005.wav
+2026-05-11 23:04:51,493 [INFO] [OK] prompt_0021 → prompt_0021.wav
+2026-05-11 23:04:51,494 [INFO] Checkpoint saved — 30 total completed
+2026-05-11 23:04:52,502 [INFO] ── Batch 4/10 (10 prompts) ──
+2026-05-11 23:04:53,233 [INFO] [OK] prompt_0045 → prompt_0045.wav
+2026-05-11 23:04:53,304 [INFO] [OK] prompt_0075 → prompt_0075.wav
+2026-05-11 23:04:53,373 [INFO] [OK] prompt_0033 → prompt_0033.wav
+2026-05-11 23:04:53,445 [INFO] [OK] prompt_0068 → prompt_0068.wav
+2026-05-11 23:04:53,518 [INFO] [OK] prompt_0067 → prompt_0067.wav
+2026-05-11 23:04:53,591 [INFO] [OK] prompt_0017 → prompt_0017.wav
+2026-05-11 23:04:53,662 [INFO] [OK] prompt_0026 → prompt_0026.wav
+2026-05-11 23:04:53,733 [INFO] [OK] prompt_0003 → prompt_0003.wav
+2026-05-11 23:04:53,806 [INFO] [OK] prompt_0046 → prompt_0046.wav
+2026-05-11 23:04:53,874 [INFO] [OK] prompt_0019 → prompt_0019.wav
+2026-05-11 23:04:53,875 [INFO] Checkpoint saved — 40 total completed
+2026-05-11 23:04:54,884 [INFO] ── Batch 5/10 (10 prompts) ──
+2026-05-11 23:04:55,654 [INFO] [OK] prompt_0094 → prompt_0094.wav
+2026-05-11 23:04:55,727 [INFO] [OK] prompt_0065 → prompt_0065.wav
+2026-05-11 23:04:55,798 [INFO] [OK] prompt_0080 → prompt_0080.wav
+2026-05-11 23:04:55,867 [INFO] [OK] prompt_0006 → prompt_0006.wav
+2026-05-11 23:04:55,941 [INFO] [OK] prompt_0064 → prompt_0064.wav
+2026-05-11 23:04:56,013 [INFO] [OK] prompt_0076 → prompt_0076.wav
+2026-05-11 23:04:56,087 [INFO] [OK] prompt_0023 → prompt_0023.wav
+2026-05-11 23:04:56,159 [INFO] [OK] prompt_0036 → prompt_0036.wav
+2026-05-11 23:04:56,232 [INFO] [OK] prompt_0043 → prompt_0043.wav
+2026-05-11 23:04:56,302 [INFO] [OK] prompt_0050 → prompt_0050.wav
+2026-05-11 23:04:56,303 [INFO] Checkpoint saved — 50 total completed
+2026-05-11 23:04:57,318 [INFO] ── Batch 6/10 (10 prompts) ──
+2026-05-11 23:04:58,040 [INFO] [OK] prompt_0042 → prompt_0042.wav
+2026-05-11 23:04:58,118 [INFO] [OK] prompt_0095 → prompt_0095.wav
+2026-05-11 23:04:58,189 [INFO] [OK] prompt_0058 → prompt_0058.wav
+2026-05-11 23:04:58,261 [INFO] [OK] prompt_0092 → prompt_0092.wav
+2026-05-11 23:04:58,326 [INFO] [OK] prompt_0040 → prompt_0040.wav
+2026-05-11 23:04:58,396 [INFO] [OK] prompt_0039 → prompt_0039.wav
+2026-05-11 23:04:58,465 [INFO] [OK] prompt_0018 → prompt_0018.wav
+2026-05-11 23:04:58,535 [INFO] [OK] prompt_0081 → prompt_0081.wav
+2026-05-11 23:04:58,607 [INFO] [OK] prompt_0057 → prompt_0057.wav
+2026-05-11 23:04:58,679 [INFO] [OK] prompt_0014 → prompt_0014.wav
+2026-05-11 23:04:58,680 [INFO] Checkpoint saved — 60 total completed
+2026-05-11 23:04:59,680 [INFO] ── Batch 7/10 (10 prompts) ──
+2026-05-11 23:05:00,472 [INFO] [OK] prompt_0099 → prompt_0099.wav
+2026-05-11 23:05:00,546 [INFO] [OK] prompt_0031 → prompt_0031.wav
+2026-05-11 23:05:00,619 [INFO] [OK] prompt_0025 → prompt_0025.wav
+2026-05-11 23:05:00,690 [INFO] [OK] prompt_0013 → prompt_0013.wav
+2026-05-11 23:05:00,764 [INFO] [OK] prompt_0062 → prompt_0062.wav
+2026-05-11 23:05:00,837 [INFO] [OK] prompt_0011 → prompt_0011.wav
+2026-05-11 23:05:00,909 [INFO] [OK] prompt_0056 → prompt_0056.wav
+2026-05-11 23:05:00,986 [INFO] [OK] prompt_0030 → prompt_0030.wav
+2026-05-11 23:05:01,058 [INFO] [OK] prompt_0093 → prompt_0093.wav
+2026-05-11 23:05:01,729 [INFO] [OK] prompt_0089 → prompt_0089.wav
+2026-05-11 23:05:01,729 [INFO] Checkpoint saved — 70 total completed
+2026-05-11 23:05:02,746 [INFO] ── Batch 8/10 (10 prompts) ──
+2026-05-11 23:05:03,493 [INFO] [OK] prompt_0091 → prompt_0091.wav
+2026-05-11 23:05:03,564 [INFO] [OK] prompt_0051 → prompt_0051.wav
+2026-05-11 23:05:03,636 [INFO] [OK] prompt_0060 → prompt_0060.wav
+2026-05-11 23:05:03,708 [INFO] [OK] prompt_0059 → prompt_0059.wav
+2026-05-11 23:05:03,777 [INFO] [OK] prompt_0034 → prompt_0034.wav
+2026-05-11 23:05:03,851 [INFO] [OK] prompt_0098 → prompt_0098.wav
+2026-05-11 23:05:03,921 [INFO] [OK] prompt_0066 → prompt_0066.wav
+2026-05-11 23:05:03,990 [INFO] [OK] prompt_0008 → prompt_0008.wav
+2026-05-11 23:05:04,063 [INFO] [OK] prompt_0015 → prompt_0015.wav
+2026-05-11 23:05:05,188 [INFO] [OK] prompt_0035 → prompt_0035.wav
+2026-05-11 23:05:05,191 [INFO] Checkpoint saved — 80 total completed
+2026-05-11 23:05:06,192 [INFO] ── Batch 9/10 (10 prompts) ──
+2026-05-11 23:05:06,955 [INFO] [OK] prompt_0084 → prompt_0084.wav
+2026-05-11 23:05:07,029 [INFO] [OK] prompt_0010 → prompt_0010.wav
+2026-05-11 23:05:07,099 [INFO] [OK] prompt_0012 → prompt_0012.wav
+2026-05-11 23:05:07,176 [INFO] [OK] prompt_0071 → prompt_0071.wav
+2026-05-11 23:05:07,246 [INFO] [OK] prompt_0085 → prompt_0085.wav
+2026-05-11 23:05:07,319 [INFO] [OK] prompt_0054 → prompt_0054.wav
+2026-05-11 23:05:07,390 [INFO] [OK] prompt_0078 → prompt_0078.wav
+2026-05-11 23:05:07,543 [INFO] [OK] prompt_0049 → prompt_0049.wav
+2026-05-11 23:05:07,621 [INFO] [OK] prompt_0096 → prompt_0096.wav
+2026-05-11 23:05:08,327 [INFO] [OK] prompt_0052 → prompt_0052.wav
+2026-05-11 23:05:08,327 [INFO] Checkpoint saved — 90 total completed
+2026-05-11 23:05:09,339 [INFO] ── Batch 10/10 (10 prompts) ──
+2026-05-11 23:05:10,211 [INFO] [OK] prompt_0024 → prompt_0024.wav
+2026-05-11 23:05:10,288 [INFO] [OK] prompt_0007 → prompt_0007.wav
+2026-05-11 23:05:10,364 [INFO] [OK] prompt_0044 → prompt_0044.wav
+2026-05-11 23:05:10,434 [INFO] [OK] prompt_0022 → prompt_0022.wav
+2026-05-11 23:05:10,511 [INFO] [OK] prompt_0083 → prompt_0083.wav
+2026-05-11 23:05:10,584 [INFO] [OK] prompt_0069 → prompt_0069.wav
+2026-05-11 23:05:10,660 [INFO] [OK] prompt_0063 → prompt_0063.wav
+2026-05-11 23:05:10,731 [INFO] [OK] prompt_0009 → prompt_0009.wav
+2026-05-11 23:05:10,803 [INFO] [OK] prompt_0070 → prompt_0070.wav
+2026-05-11 23:05:10,875 [INFO] [OK] prompt_0082 → prompt_0082.wav
+2026-05-11 23:05:10,876 [INFO] Checkpoint saved — 100 total completed
+2026-05-11 23:05:10,878 [INFO] 
+==================================================
+2026-05-11 23:05:10,878 [INFO] ✅ Synthesis complete
+2026-05-11 23:05:10,878 [INFO]    Success: 100 | Failed: 0
+2026-05-11 23:05:10,878 [INFO]    Manifest: data\audio\manifest.json
+2026-05-11 23:05:10,879 [INFO] ==================================================
